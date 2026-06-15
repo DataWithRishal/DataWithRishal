@@ -36,7 +36,6 @@ Welcome to my portfolio. I am a Data Engineer and Data Architect specializing in
 ### ⚡ Current Engineering Focus
 * Transitioning complex Data Warehouse logic into scalable Python and Docker architectures.
 * Mastering advanced programmatic data manipulation and cloud-native integration.
-* Preparing for high-impact Data Engineering roles within the Dubai and broader Middle Eastern tech hubs.
 
 ---
 
