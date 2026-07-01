@@ -1,49 +1,51 @@
-# 🚀 Data With RISHAL | Enterprise Data Engineering
+<div align="center">
 
-Welcome to my portfolio. I am a Data Engineer and Data Architect specializing in building scalable, production-grade data pipelines, modern data warehousing, and cloud-native transformations. I engineer raw, messy data into business-ready intelligence using robust Medallion architectures and strict FinOps controls.
+# 🚀 DATA WITH RISHAL
+### 🏗️ Enterprise Data Engineer & Architect
 
----
+*I don't just move data. I engineer scalable, resilient, production-grade pipelines and modern cloud data warehouses that turn high-volume chaos into business-ready intelligence.*
 
-## 🛠️ Technical Arsenal
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/datawithrishal)
+[![Email](https://img.shields.io/badge/Contact-rishalmatta28@gmail.com-EA4335?style=for-the-badge&logo=gmail)](#)
 
-**Languages & Core Technologies**
-* Python | Advanced SQL | Relational Database Design
-
-**Cloud Infrastructure & Data Warehousing**
-* Snowflake | Microsoft Azure | Cloud Storage Architectures | Cloud Data Warehousing
-
-**Pipeline Engineering (ETL/ELT)**
-* dbt (Data Build Tool) | Data Transformation | Data Orchestration
-
-**DevOps & Production Control**
-* Containerization (Docker) | CI/CD Automation (GitHub Actions) | Production Control & Zero-Waste Compute
-
-**Analytics, Governance & BI**
-* Power BI | DAX | Data Governance & Security | Dimensional Modeling (Star Schema)
+</div>
 
 ---
 
-## 📂 Featured Enterprise Portfolios
+## ⚡ Technical Arsenal
 
-| Project | Description | Architecture |
-| :--- | :--- | :--- |
-| **[UAE Retail Analytics Pipeline](https://github.com/DataWithRishal/UAE-Retail-Analytics-Pipeline)** | A fully automated, production-grade data pipeline built for high-scale retail analytics. Extracts POS data, applies custom domain logic (VAT extraction), and aggregates daily KPIs. | `Snowflake` `dbt` `Azure` `CI/CD` |
-| **[Enterprise Sales Architecture](https://github.com/DataWithRishal/Enterprise-Sales-Architecture)** | A robust Data Warehouse (EDW) engineered for complex sales data. Features advanced schema design and optimized query paths for business intelligence. | `Advanced SQL` `Star Schema` `Optimization` |
-| **[UAE Credit Risk Architecture](https://github.com/DataWithRishal/UAE-Credit-Risk-Model)** | An end-to-end data architecture and business intelligence solution tracking Commercial Bank Non-Performing Loans (NPL). Engineered with a strict Star Schema, custom DAX time-intelligence, and dynamic cross-filtering. | `Power BI` `DAX` `Data Modeling` `Star Schema` |
-| **[SQL Mastery Journey](https://github.com/DataWithRishal/SQL-Mastery-Journey)** | A comprehensive module-based progression tracking expert-level database querying, optimization techniques, and foundational data structures. | `SQL` `PostgreSQL` `Database Design` |
+> **☁️ Cloud & Compute:** `Databricks` | `Snowflake` | `Microsoft Azure` | `Delta Lake`
+> **⚙️ Data Engineering:** `PySpark` | `Python` | `dbt (Data Build Tool)` | `Advanced SQL`
+> **🏗️ Architecture & DevOps:** `Medallion Architecture` | `Docker` | `GitHub Actions (CI/CD)` | `FinOps`
+> **📊 Analytics & BI:** `Power BI` | `DAX` | `Dimensional Modeling (Star Schema)`
 
 ---
 
-## ⚡ Current Engineering Focus
+## 🏆 Featured Enterprise Portfolios
 
-* Transitioning complex Data Warehouse logic into scalable Python and Docker architectures.
-* Mastering advanced programmatic data manipulation and cloud-native integration.
+### [🇦🇪 Dubai Real Estate Data Lake | Big Data Pipeline](https://github.com/DataWithRishal/Dubai-RealEstate-DataLake)
+> **Scale:** 10M+ Records | **Core Stack:** `Databricks Serverless` `PySpark` `Delta Lake` `Python`
+> A production-grade **Medallion Architecture (Bronze ➔ Silver ➔ Gold)** processing streaming property transactions. Sanitizes and models high-velocity data into a highly structured Delta Lakehouse for immediate analytical readiness.
+
+### [🛒 UAE Retail Analytics Pipeline | Cloud Automation](https://github.com/DataWithRishal/uae_retail_pipeline)
+> **Core Stack:** `Snowflake` `dbt` `Azure` `CI/CD`
+> Fully automated ETL pipeline engineered for high-scale POS retail analytics. Features custom domain logic for VAT extraction, daily KPI aggregation, and strict zero-waste compute controls via GitHub Actions.
+
+### [🏦 UAE Credit Risk Architecture | Enterprise BI](https://github.com/DataWithRishal/UAE-Credit-Risk-Model)
+> **Core Stack:** `Power BI` `DAX` `Star Schema` `Data Modeling`
+> End-to-end business intelligence solution tracking Commercial Bank Non-Performing Loans (NPL). Built on a highly optimized Star Schema with a disconnected semantic layer and custom DAX time-intelligence for isolating regional risk.
+
+### [🏢 Enterprise Sales Architecture | Data Warehousing](https://github.com/DataWithRishal/Enterprise-Sales-Architecture-SQL)
+> **Core Stack:** `Advanced SQL` `Star Schema` `Query Optimization`
+> A robust Enterprise Data Warehouse (EDW) engineered for complex sales matrices. Designed with advanced schema optimization and streamlined query paths to eliminate reporting bottlenecks.
+
+### [🧠 SQL Mastery Journey | Foundational Logic](https://github.com/DataWithRishal/SQL-Mastery-Journey)
+> **Core Stack:** `PostgreSQL` `Database Design`
+> A comprehensive progression repository documenting expert-level database querying, execution plan optimization techniques, and foundational data structures.
 
 ---
 
-## 📬 Connect with the Architect
+## 🎯 Current Engineering Focus
 
-Looking to discuss data architecture, cloud pipelines, or potential engineering opportunities? Let's connect.
-
-* **LinkedIn:** [linkedin.com/in/datawithrishal](https://linkedin.com/in/datawithrishal)
-* **Email:** rishalmatta28@gmail.com
+* 🌊 **Big Data Scaling:** Transitioning complex Data Warehouse logic into high-velocity `PySpark` pipelines running on `Databricks`.
+* ⚙️ **Cloud-Native Automation:** Mastering programmatic data manipulation and containerized deployment architectures.
